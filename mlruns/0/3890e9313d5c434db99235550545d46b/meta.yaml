@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/mlflow-test/mlruns/0/3890e9313d5c434db99235550545d46b/artifacts
+end_time: 1727965483875
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3890e9313d5c434db99235550545d46b
+run_name: rumbling-stork-370
+run_uuid: 3890e9313d5c434db99235550545d46b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727965470484
+status: 3
+tags: []
+user_id: User

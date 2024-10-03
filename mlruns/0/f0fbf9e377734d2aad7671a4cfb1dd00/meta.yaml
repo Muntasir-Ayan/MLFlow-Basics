@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/mlflow-test/mlruns/0/f0fbf9e377734d2aad7671a4cfb1dd00/artifacts
+end_time: 1727966083017
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0fbf9e377734d2aad7671a4cfb1dd00
+run_name: vaunted-robin-598
+run_uuid: f0fbf9e377734d2aad7671a4cfb1dd00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727966077892
+status: 3
+tags: []
+user_id: User

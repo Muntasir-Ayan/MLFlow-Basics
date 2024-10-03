@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/mlflow-test/mlruns/0/c3516f7f712840399afd3a9775055f3a/artifacts
+end_time: 1727965857312
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3516f7f712840399afd3a9775055f3a
+run_name: respected-koi-723
+run_uuid: c3516f7f712840399afd3a9775055f3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727965852587
+status: 3
+tags: []
+user_id: User
